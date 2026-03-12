@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: #ff4b4b;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 20px;
+}
+
+.stButton>button {
+    background-color: #ff4b4b;
+    color: white;
+    border-radius: 8px;
+    height: 40px;
+    width: 200px;
+}
+
+.stButton>button:hover {
+    background-color: #ff0000;
+}
